@@ -31,17 +31,7 @@ Raw counts
 → differential expression
 → pathway analysis
 
-## Results
 
-[insert PCA]
-
-[insert volcano plot]
-
-[insert heatmap]
-
-## Biological interpretation
-
-...
 
 ## Reproducibility
 
